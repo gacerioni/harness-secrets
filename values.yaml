@@ -1,2 +1,0 @@
-name: gabs
-secret: <+secrets.getValue("org.supersecret")>
